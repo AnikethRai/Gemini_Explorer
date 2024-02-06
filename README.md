@@ -37,8 +37,8 @@ Moreover, vertexAI is a library that provided us with the Gemini-versions, here 
   Create a GitHub and upload a video with slides, representing your approach to complete this mission.
   
 ##  Issues
-   <p style='color:red'>403: Permission Denied Error </p>
-   <p style= 'color:green'> Check if you have provided project_id rather than project name in your code or if the service account is activated. </p>
+  #### 403: Permission Denied Error 
+  ##### Check if you have provided project_id rather than project name in your code or if the service account is activated.
 
 
 ## Appreciation
