@@ -25,6 +25,8 @@ Moreover, vertexAI is a library that provided us with the Gemini-versions, here 
 - Vertexai
   
 ## Task 1: 🌐 Enable Google Cloud
+  ![task1](https://github.com/AnikethRai/Gemini_Explorer/assets/95706188/91bc6eb1-0fa4-4832-bc12-0570aea82443)
+
 
 ## Task 2: 🧬 Google Cloud Initialization
 
