@@ -1,6 +1,6 @@
 # Gemini Explorer
   Gemini is a family of multimodal large language models developed by Google DeepMind, serving as the successor to LaMDA and PaLM 2
-  ![Gemini AI]![image](https://github.com/AnikethRai/Gemini_Explorer/assets/95706188/a86760e0-91b5-40b8-97ca-65e8c7e7b12a)
+ ![image](https://github.com/AnikethRai/Gemini_Explorer/assets/95706188/a86760e0-91b5-40b8-97ca-65e8c7e7b12a)
 
 ## Description
 
