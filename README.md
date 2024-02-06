@@ -97,7 +97,7 @@ Moreover, vertexAI is a library that provided us with the Gemini-versions, here 
   ![image](https://github.com/AnikethRai/Gemini_Explorer/assets/95706188/7fec3346-20fe-4566-8a32-4ca49de2ea83)
 
 ## Socials
-- To join RadicalX follow this link. [RadicalX AI](https://www.community.radicalx.co/about)
+- To join RadicalX follow this link. [RadicalX AI]([https://www.community.radicalx.co/about](https://www.community.radicalx.co/share/VAN9ZwQaHlvm-ASn?utm_source=manual)https://www.community.radicalx.co/share/VAN9ZwQaHlvm-ASn?utm_source=manual)
 - LinkedIn [Aniketh Rai](https://www.linkedin.com/in/aniketh-rai/)
 
 
