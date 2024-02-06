@@ -7,6 +7,9 @@
 This mission is provided by the RadicalX Ai Team, where we have to integrate Gemini into our Python code of Streamlit to create an AI chat interface. Here Gemini is an API, where we need to have Gcloud account to access it.
 Moreover, vertexAI is a library that provided us with the Gemini-versions, here we use Gemini-pro in our mission. To complete this mission we have to follow and complete the tasks.
 
+## Video Overview
+ Link -> [ClickOn Me](https://www.loom.com/share/24ce768cd1d84e8e8ca7603599b99e30?sid=a0fa3e4b-855c-41fd-8789-50bfbf3473ed)
+
 ## Table of Contents
 
 - Task 1: 🌐 Enable Google Cloud
@@ -83,12 +86,12 @@ Moreover, vertexAI is a library that provided us with the Gemini-versions, here 
   Create a GitHub and upload a video with slides, representing your approach to complete this mission.
   
 ##  Issues
-  ⚠️ 403: Permission Denied Error 
-  ✔️ Check if you have provided project_id rather than project name in your code or if the service account is activated.
-  ✔️ You can follow through this document to activate the service Account. [Service Account Activation](https://cloud.google.com/sdk/gcloud/reference/auth/activate-service-account)
-  ✔️ Use the Example code.
-  ⚠️ Value Error
-  ✔️ This is a system error, It is just an initial throw put of streamlit library as we do not display the initial prompt in chat interface. Not to worry about it.
+ - ⚠️ 403: Permission Denied Error 
+ - ✔️ Check if you have provided project_id rather than project name in your code or if the service account is activated.
+ - ✔️ You can follow through this document to activate the service Account. [Service Account Activation](https://cloud.google.com/sdk/gcloud/reference/auth/activate-service-account)
+ - ✔️ Use the Example code.
+ - ⚠️ Value Error
+ - ✔️ This is a system error, It is just an initial throw put of streamlit library as we do not display the initial prompt in chat interface. Not to worry about it.
 
 
 ## Appreciation
