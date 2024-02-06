@@ -58,6 +58,14 @@ Moreover, vertexAI is a library that provided us with the Gemini-versions, here 
 
 
 ## Task 3: ☁️ Setting up Google Gemini
+  - We have to install Streamlit 
+  - Use command : ``` pip install streamlit ``` 
+  - To verify use:  ```  streamlit hello ```  |  ```  python -m streamlit hello ```
+  - Open streamlit documentation.
+  - Under LLM models, you might find a section for creating chat interface.
+  - Streamlit used OpenAI as an example but we are going to use Gemini-Pro by Google.
+    ![task3](https://github.com/AnikethRai/Gemini_Explorer/assets/95706188/ff9e8cc2-a355-4f50-a361-e564c9b91a22)
+
 
 ## Task 4: 📊 Streamlit Integration
 
