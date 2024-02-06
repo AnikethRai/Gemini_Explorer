@@ -4,7 +4,8 @@
 
 ## Description
 
-A brief description of your project goes here. Explain what the project does, its main features, and why someone might want to use it.
+This mission is provided by the RadicalX Ai Team, where we have to integrate Gemini into our Python code of Streamlit to create an AI chat interface. Here Gemini is an API, where we need to have Gcloud account to access it.
+Moreover, vertexAI is a library that provided us with the Gemini-versions, here we use Gemini-pro in our mission. To complete this mission we have to follow and complete the tasks.
 
 ## Table of Contents
 
@@ -25,9 +26,20 @@ A brief description of your project goes here. Explain what the project does, it
 ## Task 1: 🌐 Enable Google Cloud
 
 ## Task 2: 🧬 Google Cloud Initialization
+
 ## Task 3: ☁️ Setting up Google Gemini
+
 ## Task 4: 📊 Streamlit Integration
+
 ## Task 5: 🗣️ Adding Initial System Messages
+
 ## Task 6: 📄 Preparing Submission
+  Create a GitHub and upload a video with slides, representing your approach to complete this mission.
+  
 ##  Issues
+   <p style='color:red'>403: Permission Denied Error </p>
+   <p style= 'color:green'> Check if you have provided project_id rather than project name in your code or if the service account is activated. </p>
+
+
+## Appreciation
 
