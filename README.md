@@ -18,11 +18,11 @@ Moreover, vertexAI is a library that provided us with the Gemini-versions, here 
 
 ## Requirements
 
-- Python version 3.11x or above [https://www.python.org/downloads/]
-- pip
-- Streamlit
-- Gcloud account
-- Vertexai
+- Python version 3.11x or above [Python](https://www.python.org/downloads/)
+- pip [pip](https://pip.pypa.io/en/stable/installation/)
+- Streamlit [Streamlit](https://docs.streamlit.io/)
+- Gcloud account [Gcloud](https://console.cloud.google.com/welcome/new?_ga=2.263401548.-1375459776.1706725444&hl=en&project=geminiexplorer-412918)
+- Vertexai [VertexAI Document](https://pypi.org/project/google-cloud-aiplatform/)
   
 ## Task 1: 🌐 Enable Google Cloud
   
@@ -40,6 +40,22 @@ Moreover, vertexAI is a library that provided us with the Gemini-versions, here 
 
 
 ## Task 2: 🧬 Google Cloud Initialization
+  - Install the Google Cloud SDK: Follow the installation instructions for your operating system here.
+  - Open a terminal or command prompt.
+  - Run the following command to initialize the SDK:
+        ```
+            gcloud init
+        ```
+  - Sign in with your Google Account: Follow the prompts to sign in or create a new account.
+  - Choose a Google Cloud project: Select an existing project or create a new one.
+  - Set the default a: Choose a default compute region and zone.
+  - Confirm your choices: Review your selections and confirm to complete the initialization.
+  - Verify the configuration: Run the following command to verify your configuration: arduinoCopy code
+    ``` gcloud config list ```
+  (Optional) Install additional components: Depending on your needs, you may want to install additional components using the gcloud components install command.
+  You're now ready to use gcloud commands to interact with Google Cloud Platform services!
+  ![task2](https://github.com/AnikethRai/Gemini_Explorer/assets/95706188/373d51c0-fa38-48b7-a827-ef44c158f45c)
+
 
 ## Task 3: ☁️ Setting up Google Gemini
 
