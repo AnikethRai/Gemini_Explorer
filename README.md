@@ -26,7 +26,7 @@ Moreover, vertexAI is a library that provided us with the Gemini-versions, here 
   
 ## Task 1: 🌐 Enable Google Cloud
   ![task1](https://github.com/AnikethRai/Gemini_Explorer/assets/95706188/91bc6eb1-0fa4-4832-bc12-0570aea82443)
-  - Go to the Google Cloud Platform website: Google Cloud Platform. https://console.cloud.google.com/welcome/new?_ga=2.263401548.-1375459776.1706725444&hl=en&project=geminiexplorer-412918
+  - Go to the Google Cloud Platform website: Google Cloud Platform. [Gcloud](https://console.cloud.google.com/welcome/new?_ga=2.263401548.-1375459776.1706725444&hl=en&project=geminiexplorer-412918)
   - Click on "Get Started for Free" or "Try Free" button.
   - Sign in with your Google Account or create a new one.
   - Provide necessary information and billing details.
