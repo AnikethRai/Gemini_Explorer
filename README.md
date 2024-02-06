@@ -91,7 +91,7 @@ Moreover, vertexAI is a library that provided us with the Gemini-versions, here 
  - ✔️ You can follow through this document to activate the service Account. [Service Account Activation](https://cloud.google.com/sdk/gcloud/reference/auth/activate-service-account)
  - ✔️ Use the Example code.
  - ⚠️ Value Error
- - ✔️ This is a system error, It is just an initial throw put of streamlit library as we do not display the initial prompt in chat interface. Not to worry about it.
+ - ✔️ This is a system error, It is just an initial throw put of streamlit library as we do not display the initial prompt of user in chat interface. Not to worry about it.
 
 
 ## Appreciation
