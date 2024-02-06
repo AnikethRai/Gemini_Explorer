@@ -7,15 +7,17 @@ A brief description of your project goes here. Explain what the project does, it
 
 ## Table of Contents
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+- Task 1: 🌐 Enable Google Cloud
+- Task 2: 🧬 Google Cloud Initialization
+- Task 3: ☁️ Setting up Google Gemini
+- Task 4: 📊 Streamlit Integration
+- Task 5: 🗣️ Adding Initial System Messages
+- Task 6: 📄 Preparing Submission
 
-## Installation
+## Requirements
 
-Provide instructions on how to install your project. You can include code snippets, dependencies, and any other relevant information.
+- Python version 3.11x [https://www.python.org/downloads/] (doc:linking-to-pages#anchor-links)
+
 
 ```bash
 # Example installation command
