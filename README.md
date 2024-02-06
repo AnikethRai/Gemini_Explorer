@@ -83,13 +83,21 @@ Moreover, vertexAI is a library that provided us with the Gemini-versions, here 
   Create a GitHub and upload a video with slides, representing your approach to complete this mission.
   
 ##  Issues
-  ### 403: Permission Denied Error 
-  #### Check if you have provided project_id rather than project name in your code or if the service account is activated.
-  #### You can follow through this document to activate the service Account. [Service Account Activation](https://cloud.google.com/sdk/gcloud/reference/auth/activate-service-account)
-  #### Use the Example code.
-  ### Value Error
-  #### This is a system error, It is just an initial throw put of streamlit library as we do not display the initial prompt in chat interface. Not to worry about it.
+  ⚠️ 403: Permission Denied Error 
+  ✔️ Check if you have provided project_id rather than project name in your code or if the service account is activated.
+  ✔️ You can follow through this document to activate the service Account. [Service Account Activation](https://cloud.google.com/sdk/gcloud/reference/auth/activate-service-account)
+  ✔️ Use the Example code.
+  ⚠️ Value Error
+  ✔️ This is a system error, It is just an initial throw put of streamlit library as we do not display the initial prompt in chat interface. Not to worry about it.
 
 
 ## Appreciation
+  I wanna show my gratitude towards Talha Sabri and Mikhail Ocampo, for providing me this opportunity to complete this AI Mission. #RadicalXJourney.
+  I also want to thank Shilpa Sivarajan for answering my doubts regarding the issues I have faced.
+  ![image](https://github.com/AnikethRai/Gemini_Explorer/assets/95706188/7fec3346-20fe-4566-8a32-4ca49de2ea83)
+
+## Socials
+To join RadicalX follow this link. [RadicalX AI](https://www.community.radicalx.co/about)
+LinkedIn [Aniketh Rai](https://www.linkedin.com/in/aniketh-rai/)
+
 
