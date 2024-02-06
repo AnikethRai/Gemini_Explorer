@@ -23,6 +23,7 @@ Moreover, vertexAI is a library that provided us with the Gemini-versions, here 
 - Streamlit
 - Gcloud account
 - Vertexai
+  
 ## Task 1: 🌐 Enable Google Cloud
 
 ## Task 2: 🧬 Google Cloud Initialization
@@ -37,8 +38,8 @@ Moreover, vertexAI is a library that provided us with the Gemini-versions, here 
   Create a GitHub and upload a video with slides, representing your approach to complete this mission.
   
 ##  Issues
-  #### 403: Permission Denied Error 
-  ##### Check if you have provided project_id rather than project name in your code or if the service account is activated.
+  ### 403: Permission Denied Error 
+  #### Check if you have provided project_id rather than project name in your code or if the service account is activated.
 
 
 ## Appreciation
