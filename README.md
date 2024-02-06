@@ -68,8 +68,16 @@ Moreover, vertexAI is a library that provided us with the Gemini-versions, here 
 
 
 ## Task 4: 📊 Streamlit Integration
+ - Follow the code provided in the Mission or you can improvise on your own through documentation.
+ - Run the python file using command: ``` python -m streamlit filename.py ```
+ - You should be seeing a web app pop up on yourscreen with chat interface.
+   ![Task4](https://github.com/AnikethRai/Gemini_Explorer/assets/95706188/3824cc48-662e-47e2-87fb-044ed451bd38)
+
 
 ## Task 5: 🗣️ Adding Initial System Messages
+  By adding the above snippet in your main code, it initializes an initial prompt to Gemini. Therefore the next slide shows the result of the chat interface
+  ![task5](https://github.com/AnikethRai/Gemini_Explorer/assets/95706188/d1cec5fa-4de8-4e6a-8ae2-58000ba41faa)
+
 
 ## Task 6: 📄 Preparing Submission
   Create a GitHub and upload a video with slides, representing your approach to complete this mission.
@@ -77,6 +85,10 @@ Moreover, vertexAI is a library that provided us with the Gemini-versions, here 
 ##  Issues
   ### 403: Permission Denied Error 
   #### Check if you have provided project_id rather than project name in your code or if the service account is activated.
+  #### You can follow through this document to activate the service Account. [Service Account Activation](https://cloud.google.com/sdk/gcloud/reference/auth/activate-service-account)
+  #### Use the Example code.
+  ### Value Error
+  #### This is a system error, It is just an initial throw put of streamlit library as we do not display the initial prompt in chat interface. Not to worry about it.
 
 
 ## Appreciation
