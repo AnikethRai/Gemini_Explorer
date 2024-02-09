@@ -56,7 +56,7 @@ Moreover, vertexAI is a library that provided us with the Gemini-versions, here 
   - Verify the configuration: Run the following command to verify your configuration: arduinoCopy code
     ``` gcloud config list ```
   (Optional) Install additional components: Depending on your needs, you may want to install additional components using the gcloud components install command.
-  You're now ready to use gcloud commands to interact with Google Cloud Platform services!
+  You're now ready to use Gcloud commands to interact with Google Cloud Platform services!
   ![task2](https://github.com/AnikethRai/Gemini_Explorer/assets/95706188/373d51c0-fa38-48b7-a827-ef44c158f45c)
 
 
@@ -67,18 +67,19 @@ Moreover, vertexAI is a library that provided us with the Gemini-versions, here 
   - Open streamlit documentation.
   - Under LLM models, you might find a section for creating chat interface.
   - Streamlit used OpenAI as an example but we are going to use Gemini-Pro by Google.
+  - Rather than using the Project name use Project_id. for project = "project_id" so that you don't run into 403 permission denied error.
     ![task3](https://github.com/AnikethRai/Gemini_Explorer/assets/95706188/ff9e8cc2-a355-4f50-a361-e564c9b91a22)
 
 
 ## Task 4: 📊 Streamlit Integration
  - Follow the code provided in the Mission or you can improvise on your own through documentation.
- - Run the python file using command: ``` python -m streamlit filename.py ```
- - You should be seeing a web app pop up on yourscreen with chat interface.
+ - Run the python file using the command: ``` python -m streamlit filename.py ```
+ - You should be seeing a web app pop up on your screen with a chat interface.
    ![Task4](https://github.com/AnikethRai/Gemini_Explorer/assets/95706188/3824cc48-662e-47e2-87fb-044ed451bd38)
 
 
 ## Task 5: 🗣️ Adding Initial System Messages
-  By adding the above snippet in your main code, it initializes an initial prompt to Gemini. Therefore the next slide shows the result of the chat interface
+  By adding the above snippet to your main code, it initializes an initial prompt to Gemini. Therefore the next slide shows the result of the chat interface
   ![task5](https://github.com/AnikethRai/Gemini_Explorer/assets/95706188/d1cec5fa-4de8-4e6a-8ae2-58000ba41faa)
 
 
@@ -91,7 +92,7 @@ Moreover, vertexAI is a library that provided us with the Gemini-versions, here 
  - ✔️ You can follow through this document to activate the service Account. [Service Account Activation](https://cloud.google.com/sdk/gcloud/reference/auth/activate-service-account)
  - ✔️ Use the Example code.
  - ⚠️ Value Error
- - ✔️ This is a system error, It is just an initial throw put of streamlit library as we do not display the initial prompt of user in chat interface. Not to worry about it.
+ - ✔️ This is a system error, It is just an initial throw put of streamlit library as we do not display the initial prompt of a user in the chat interface. Not to worry about it.
 
 
 ## Appreciation
